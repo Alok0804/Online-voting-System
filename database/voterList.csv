@@ -1,0 +1,11 @@
+,voter_id,Name,Gender,Zone,City,Passw,hasVoted
+0,10001,Deep,Male,West,Gandhinagar,abcd,0
+1,10002,Prachi,Female,South,Surat,abcd,0
+2,10003,Het,Male,East,Surat,abcd,0
+3,10004,Shivanshi,Female,East,Gandhinagar,abcd,0
+4,10005,Dev,Male,North,Ahmedabad,abcd,0
+5,10006,Ayushi,Female,ghaz,murad,A678,0
+6,10007,Alok,Male,Up,Ghaziabad,admin,0
+7,10008,Divyanshu,Male,Ghaziabad,muradnagar,45,0
+8,10009,Nota,Transgender,UP,hb,274403,0
+9,10010,adarsh,Male,lucknow,murad,adarsh,0
